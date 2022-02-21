@@ -1,7 +1,8 @@
 /* Exercise 1 - Calculations
 
    Write a C program to input marks of two subjects. Calculate and print the average of the two marks. */
-
+ /*
+completed exercise 1*/
 #include <stdio.h>
 
 int main() {
